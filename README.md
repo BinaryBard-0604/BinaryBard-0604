@@ -8,7 +8,7 @@
 - 🌱 Frontend : React, Next, Web3.js, Angular, Vue, Nuxt, Jquery, Material UI, Bootstrap, TailwindCSS
 - 🔭 Backend : NodeJs, CI, Laravel, Django, Express, Nestjs, PHP,
 - 🌱 Blockchain: Smart Contract, Solidity, Solana, Rust
-- 📲 Mobile: Android, React Native, Ionic, Flutter
+- 📲 AI: ML, LLM, LangChain, Data Science
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite, AES Lambda, Spring Cloud
 - 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, C++, C#, Go
 - 🔥 CMS: WordPress, Shopify, Framer, Webflow
