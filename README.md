@@ -6,7 +6,7 @@
 <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500">
 ## Skills
 - 🌱 Frontend : React, Next, Web3.js, Angular, Vue, Nuxt, Jquery, Material UI, Bootstrap, TailwindCSS
-- 🔭 Backend : NodeJs, CI, Laravel, Django, Express, Nestjs, PHP,
+- 🔭 Backend : Ruby on Rails, Spring boot, NodeJs, Django, Express, Nestjs, PHP,
 - 📲 AI: ML, LLM, LangChain, Data Science
 - 🌱 Blockchain: Smart Contract, Solidity, Solana, Rust
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite, AES Lambda, Spring Cloud
